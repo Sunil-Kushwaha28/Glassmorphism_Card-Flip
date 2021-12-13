@@ -1,7 +1,8 @@
 # Glassmorphism_Card-Flip
 
-`HTML ![image](https://user-images.githubusercontent.com/82012814/145780210-3a3fccb3-7a6e-4ccd-9824-56556f55385a.png)`
-`CSS ![image](https://user-images.githubusercontent.com/82012814/145780221-43590302-6835-42e1-a274-5ac6e5ac744b.png)`
+`HTML` ![image](https://user-images.githubusercontent.com/82012814/145780865-b2a1f0fc-ca57-43a9-9fed-d7110475340b.png)
+
+`CSS` ![image](https://user-images.githubusercontent.com/82012814/145780897-f9341f34-b3ae-474b-bf5b-52d68ebb4e81.png)
 
 # Screen Shots
 ![Glassmorphism-MI](https://user-images.githubusercontent.com/82012814/145776376-a5f84b26-2911-45ab-8e97-c474879d7ab7.png)
